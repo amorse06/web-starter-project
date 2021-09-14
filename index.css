@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  color: black;
+  width: 650px;
+  margin: auto;
+  font-family:  "Helvetica", sans-serif;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+p {
+  line-height:   23px;
+  /font-family: "Courier New", monospace;
+}
